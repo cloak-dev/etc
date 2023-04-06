@@ -1,0 +1,41 @@
+commit fdd74272d59c7a5347cc83dbb4eb09a094de593f
+Author: jyothssena G S <jyothssena02@gmail.com>
+Date:   Wed Apr 5 23:21:39 2023 +0530
+
+    [feat] add content script for firefox
+
+commit cbcc659094ed6b353a1531714dda08dbaf56bbc6
+Author: jyothssena G S <jyothssena02@gmail.com>
+Date:   Wed Apr 5 23:20:58 2023 +0530
+
+    [feat] scaffold firefox addon
+
+commit 7910dbf2d83554e759269fb179d5eb7b4e0f11c6
+Author: jyothssena G S <jyothssena02@gmail.com>
+Date:   Wed Apr 5 23:14:16 2023 +0530
+
+    [feat] add assets to chrome extension
+
+commit 1b4df9ec9d681bb78c17dc1e17c0fa627f0d06cd
+Author: jyothssena G S <jyothssena02@gmail.com>
+Date:   Wed Apr 5 23:04:46 2023 +0530
+
+    [feat] scaffold the structure of cloak
+
+commit 3fc434f996565c65b940e1c3ea1edcb41baf98c8
+Author: jyothssena G S <jyothssena02@gmail.com>
+Date:   Wed Apr 5 22:49:35 2023 +0530
+
+    [feat] add AES decryption
+
+commit ee2e98acdfb953374cc63bb9a15273047717fa78
+Author: jyothssena G S <jyothssena02@gmail.com>
+Date:   Wed Apr 5 22:36:31 2023 +0530
+
+    [feat] add hooks for basic caesar example with static key
+
+commit ddb3bc6158ca603529083650ee480f98f65d52ca
+Author: jyothssena G S <jyothssena02@gmail.com>
+Date:   Wed Apr 5 22:23:45 2023 +0530
+
+    [feat] add websocket server and database

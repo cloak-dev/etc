@@ -1,0 +1,23 @@
+chromium/scripts/basic.js
+
+/** Hook for the basic chat server
+ * Provides all three hooks
+ * 1. Display
+ * 2. Send
+ * 3. Receive
+ */
+
+Lines 1-6
+
+--------------------------------------------
+
+chromium/scripts/basic.js
+
+// will be asynchronously populated with the public key.
+// this is the slug that lets us know its a cloak-generated message
+// we only do key exchange once
+// deserialize
+// arrive at shared key
+
+
+// bootstrap the whole process

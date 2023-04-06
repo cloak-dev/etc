@@ -1,0 +1,41 @@
+commit 4e22d731e68d72026e02faca7745d9bfa98a8895
+Author: Shreejith <shreejithsg@gmail.com>
+Date:   Wed Apr 5 23:59:08 2023 +0530
+
+    [feat] add icons
+
+commit 9f8b8b79a69124d2eacb049230b03659e9269e67
+Author: Shreejith <shreejithsg@gmail.com>
+Date:   Wed Apr 5 23:16:03 2023 +0530
+
+    [bug] fix permissions issue in manifest.json
+
+commit b686f36c7356d69720d1e7b6fe9441e593960c75
+Author: Shreejith <shreejithsg@gmail.com>
+Date:   Wed Apr 5 23:11:05 2023 +0530
+
+    [feat] add content scripts
+
+commit 6fd85fba1c06d4ee6beb92b9cf93d68b551016e7
+Author: Shreejith <shreejithsg@gmail.com>
+Date:   Wed Apr 5 22:54:51 2023 +0530
+
+    [bug] fix in aes impl
+
+commit a40ed87c63ce6e9814ac650cbd13766f593f05ab
+Author: Shreejith <shreejithsg@gmail.com>
+Date:   Wed Apr 5 22:47:01 2023 +0530
+
+    [feat] add AES-CTR
+
+commit 2aaff59dd305aaf067052fcaf0231e21ee9a1d63
+Author: Shreejith <shreejithsg@gmail.com>
+Date:   Wed Apr 5 22:38:52 2023 +0530
+
+    [feat] prototype hand-rolled diffie-hellman to arrive at caesar cipher key
+
+commit 064e53ba42258c0ab3bf4d5689d12be335d87d8c
+Author: Shreejith <shree@Shreejiths-MacBook-Air.local>
+Date:   Wed Apr 5 22:28:42 2023 +0530
+
+    [bug] fix websocket server initialization

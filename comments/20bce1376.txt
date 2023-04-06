@@ -1,0 +1,26 @@
+chromium/content.js
+// logo of cloak
+// it only appears after the first action button is clicked.
+// the first action button
+// depending on the current page, the correct hook will be loaded
+// load script into the DOM
+
+Lines 9, 16, 19, 35, 46
+
+--------------------------------------------
+
+chromium/scripts/basic.js
+
+// encrypts the given plaintext using the stored AES-CTR key
+// decrypts the given ciphertext using the stored AES-CTR key
+// simple getter for the public key
+// once the other party's public key has been received,
+// this method uses it to generate the shared secret, and
+// subsequently the key for AES.
+
+Lines 71-73
+
+
+// update the message list with the decrypted message as the messaging app
+// would have put the ciphertext there before this.
+// (their event listener comes before ours)
