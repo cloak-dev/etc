@@ -1,47 +1,39 @@
 commit c67a38e313479386a64845e637cdd3a521ea693d
 Author: Santhanam <santhanambr2002@gmail.com>
-Date:   Thu Apr 6 00:01:04 2023 +0530
 
     [chore] modify manifest.json
 
 commit 74bb640ed686a7b889c11f6919a26cf9a9797df0
 Author: Santhanam <santhanambr2002@gmail.com>
-Date:   Wed Apr 5 23:17:09 2023 +0530
 
     [feat] add extension actions
 
 commit c1554c6cbb8bd2ead511aadd69bcac5b48ae2bbd
 Author: Santhanam <santhanambr2002@gmail.com>
-Date:   Wed Apr 5 23:13:15 2023 +0530
 
     [feat] add injectable scripts
 
 commit a55729e4aadc9f137b41fbe74b2960105311f3ff
 Author: Santhanam <santhanambr2002@gmail.com>
-Date:   Wed Apr 5 22:55:54 2023 +0530
 
     [bug] That was not the fix, now it is fixed
 
 commit 34f463b21c4b7b841ed38388fe5d60a2effb4640
 Author: Santhanam <santhanambr2002@gmail.com>
-Date:   Wed Apr 5 22:53:31 2023 +0530
 
     [feat] add hooks into E2EE implementation
 
 commit b2d7bc77a549241cea8b856b1c0071652c1833a8
 Author: Santhanam <santhanambr2002@gmail.com>
-Date:   Wed Apr 5 22:42:15 2023 +0530
 
     [feat] webcrypto migration
 
 commit 6880153930d7803d20686599ba287d07899efd8c
 Author: Santhanam <santhanambr2002@gmail.com>
-Date:   Wed Apr 5 22:34:21 2023 +0530
 
     [bug] fix username not null
 
 commit 7683cef9860531f2b82e732129d7766c50dc8a68
 Author: Santhanam <santhanambr2002@gmail.com>
-Date:   Wed Apr 5 22:33:38 2023 +0530
 
     [feat] add deceitful persistence
